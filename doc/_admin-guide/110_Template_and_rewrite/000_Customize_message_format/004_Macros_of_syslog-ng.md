@@ -429,7 +429,7 @@ messages when using the IETF-syslog message format.
 
 When sent as structured metadata, it is possible to reference to the
 list of tags on the central server, and for example, to add them to a
-database column.
+database colum.
 
 ## ${TZ}, ${C_TZ}, ${R_TZ}, ${S_TZ}
 
